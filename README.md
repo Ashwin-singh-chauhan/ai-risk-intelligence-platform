@@ -33,6 +33,14 @@ docs/            Architecture, risk engine, RAG, ML, security, API, interview & 
 docker-compose.yml         Full local environment (Postgres, Redis, Kafka, all 3 services)
 ```
 
+<img width="1377" height="600" alt="image" src="https://github.com/user-attachments/assets/7b2e76cd-896a-4876-bf31-f86fba1ab912" />
+
+<img width="1393" height="655" alt="image" src="https://github.com/user-attachments/assets/d942d5a1-dc13-4ed3-84b1-d41feeb7006b" />
+
+<img width="1387" height="648" alt="image" src="https://github.com/user-attachments/assets/b8ed4b58-d926-4199-9ac4-ccf4dbe922b2" />
+
+<img width="1337" height="612" alt="image" src="https://github.com/user-attachments/assets/a0f7e579-37f8-41fc-9b26-a6f4f68ab434" />
+
 ## Quick start (Docker Compose)
 
 ```bash
