@@ -1,0 +1,45 @@
+\
+# Java / Maven
+backend/target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# Python / ML service
+ml-service/__pycache__/
+ml-service/**/__pycache__/
+ml-service/.venv/
+ml-service/*.egg-info/
+ml-service/.pytest_cache/
+*.pyc
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data
+scripts/data/*.csv
+scripts/data/*.json
+!scripts/data/.gitkeep
